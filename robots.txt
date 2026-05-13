@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commercialmortgagesbroker.github.io/cmb-birmingham-2026-q2-01-birmingham-github-pages/sitemap.xml
